@@ -10,5 +10,5 @@ alt: image-alt
 project-date: March 27th 2019 @ 6pm.
 client: Start Bootstrap
 category: Web Development
-description: Our next meeting will take place on Thursday, March 7th, 6pm, at Lyft's HQ in San Francisco. The address for this event is 185 Berry St #5000, San Francisco, CA 94107. The panel will consist of three international lawyers with a diverse set of experiences in the area of IP.
+description: Our next meeting will take place on Thursday, March 7th, 6pm, at Lyft's HQ in San Francisco. The address for this event is 185 Berry St, Suite 5000, San Francisco, CA 94107. The panel will consist of three international lawyers with a diverse set of experiences in the area of IP.
 ---
