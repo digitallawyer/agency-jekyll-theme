@@ -1,6 +1,6 @@
 ---
 title: International Intellectual Property Roundtable
-subtitle: Thursday, March 7th, 6pm, at Lyft's HQ in San Francisco
+subtitle: Thu March 7th @ 6pm in San Francisco
 layout: default
 modal-id: 1
 date: 2018-02-21
@@ -10,6 +10,5 @@ alt: image-alt
 project-date: March 27th 2019 @ 6pm.
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Our next meeting will take place on Thursday, March 7th, 6pm, at Lyft's HQ in San Francisco. The address for this event is 185 Berry St #5000, San Francisco, CA 94107. The panel will consist of three international lawyers with a diverse set of experiences in the area of IP.
 ---
