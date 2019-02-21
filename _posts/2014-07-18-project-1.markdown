@@ -1,13 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: International Intellectual Property Roundtable
+subtitle: Thursday, March 7th, 6pm, at Lyft's HQ in San Francisco
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-02-21
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: March 27th 2019 @ 6pm.
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
