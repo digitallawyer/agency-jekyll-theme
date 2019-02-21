@@ -1,13 +1,13 @@
-Agency Jekyll theme
+AILBA Website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Based on the [Jekyll Agency theme](https://jekyllthemes.io/theme/agency-jekyll-theme)
 
 # How to use
 
-###Portfolio 
+###Events
 
-Portfolio projects are in '/_posts'
+Events are in '/_posts'
 
 Images are in '/img/portfolio'
 
@@ -20,11 +20,3 @@ Images are in '/img/about/'
 Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
