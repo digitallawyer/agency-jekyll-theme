@@ -4,7 +4,7 @@ baseurl: /AILBA/
 # Site settings
 title: AILBA
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "AILBA connects international lawyers with an interest in the Bay Area. AILBA is a forum for the exchange of internationally relevant legal topics, to support career aspirations and to network with like-minded lawyers."
 
 
 # Team names, titles and social links
@@ -13,36 +13,30 @@ people:
   pic: 1
   position: Hanna Steinbach is an international lawyer with work experience at law firms in Europe and the US, at WIPO, a specialized agency of the United Nations and the Austrian Antitrust Court. She holds law degrees from the University of Vienna, Stockholm University and UC Berkeley School of Law. Hanna is currently a Legal Director at Medallia, a leading pre-IPO SaaS company in the customer experience space, where she leads a team of commercial attorneys.
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/hannasteinbach/
 
 - name: Anna Mayoroff-Rezaei 
   pic: 2
   position: Anna Mayoroff-Rezaei has law degrees from Moscow University and Stanford Law School. She began her legal career as a legal counsel for a telecommunications startup and then worked as an associate at White&Case LLP and Microsoft in Russia. After receiving an LL.M. from Stanford Law School, Anna worked at Zendesk as Senior Commercial Counsel. She is currently a Senior Legal Counsel (Product & Commercial) at Lyft.
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/anna-mayoroff-rezaei-6316a525/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/groups/1893477277610593/
+  - title: linkedin
+    url: https://www.linkedin.com/groups/13583405/
 
 # Postal address (add as many lines as necessary)
 address:

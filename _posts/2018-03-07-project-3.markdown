@@ -1,0 +1,15 @@
+---
+title: AILBA Launch
+subtitle: Wednesday March 21, 2018
+layout: default
+modal-id: 3
+date: 2018-03-21
+img: launch.jpg
+thumbnail: launch.jpg
+alt: image-alt
+project-date: March 2018
+client: Start Bootstrap
+location: Web Development
+description: AILBA launch was a success thanks to all the attendees and our fantastic speakers - Sarah Schaedler of Kirkland&Ellis and Pieter Gunst of Legal.io.
+
+---

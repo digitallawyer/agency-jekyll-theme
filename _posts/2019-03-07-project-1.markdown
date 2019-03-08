@@ -1,0 +1,14 @@
+---
+title: International Intellectual Property Roundtable
+subtitle: Thursday March 27, 2019
+layout: default
+modal-id: 1
+date: 2019-03-07
+img: dreams.jpg
+thumbnail: dreams.jpg
+alt: image-alt
+project-date: March 27, 2019 @ 6pm.
+location: Lyft HQ in San Francisco
+description: A panel consisting of four international lawyers with a diverse set of experiences in the area of IP. The speakers for this panel were Li Westerlund (VP Legal at Bavarian Nordic), Lars Brauer (Senior Counsel at YouTube), Danielle Benecke (Senior Associate at Baker & McKenzie IPTech Group) and Amir Freund (Partner, Kirkland & Ellis).
+
+---

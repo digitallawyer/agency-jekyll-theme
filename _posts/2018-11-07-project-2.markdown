@@ -1,0 +1,15 @@
+---
+title: International Privacy Compliance Roundtable
+subtitle: Wednesday November 7, 2018
+layout: default
+modal-id: 2
+date: 2018-11-07
+img: privacy.jpg
+thumbnail: privacy.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+location: Medallia HQ in San Mateo
+description: AILBA's International Privacy Compliance Roundtable was a great success. Thanks to US Managing Partner at Fieldfisher, Joel Benavides, Managing Director Global Legal at Box as well as Eve Chaurand, General Counsel at Callisto, for leading an insightful and entertaining discussion around international privacy compliance. 
+
+---
