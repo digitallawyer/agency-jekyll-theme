@@ -9,7 +9,7 @@ thumbnail: launch.jpg
 alt: image-alt
 project-date: March 2018
 client: Start Bootstrap
-location: Web Development
+location: Medallia HQ in San Mateo
 description: AILBA launch was a success thanks to all the attendees and our fantastic speakers - Sarah Schaedler of Kirkland&Ellis and Pieter Gunst of Legal.io.
 
 ---
