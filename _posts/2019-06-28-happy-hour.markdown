@@ -1,5 +1,5 @@
 ---
-title: AILBA - Networking Happy Hour
+title: Networking Happy Hour
 subtitle: Friday June 28, 2019
 layout: default
 modal-id: 4
