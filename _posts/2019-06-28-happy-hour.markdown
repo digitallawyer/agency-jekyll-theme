@@ -4,8 +4,8 @@ subtitle: Friday June 28, 2019
 layout: default
 modal-id: 4
 date: 2019-06-28
-img: launch.jpg
-thumbnail: launch.jpg
+img: drinks.jpg
+thumbnail: drinks.jpg
 alt: image-alt
 project-date: June 2019
 client: Start Bootstrap
