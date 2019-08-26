@@ -1,5 +1,5 @@
 ---
-title: Roundtable: Corporate Expansion Issues
+title: Roundtable - Corporate Expansion Issues
 subtitle: Thursday September 19, 2019
 layout: default
 modal-id: 5
