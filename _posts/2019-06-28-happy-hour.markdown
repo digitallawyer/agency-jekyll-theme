@@ -1,5 +1,5 @@
 ---
-title: Networking Happy Hour
+title: AILBA Networking Happy Hour at Lyft (SF))
 subtitle: Friday June 28, 2019
 layout: default
 modal-id: 4
