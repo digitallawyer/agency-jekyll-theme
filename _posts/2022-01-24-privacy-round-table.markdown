@@ -2,7 +2,7 @@
 title: AILBA 2023 International Privacy Roundtable
 subtitle: Tuesday January 24th, 2023, 6pm
 layout: default
-modal-id: 5
+modal-id: 7
 date: 2023-01-24
 img: roundtable.jpg
 thumbnail: roundtable.jpg
