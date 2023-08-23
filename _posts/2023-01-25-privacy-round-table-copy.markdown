@@ -1,6 +1,6 @@
 ---
-title: AILBA 2023 International Privacy Roundtable
-subtitle: Tuesday January 24th, 2023, 6pm
+title: Fireside Chat on Female Leadership hosted by Medallia's Women@ and AILBA
+subtitle: Tuesday September 5th, 2023, 5:30pm
 layout: default
 modal-id: 9
 date: 2022-11-07
