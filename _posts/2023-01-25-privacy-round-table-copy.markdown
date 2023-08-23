@@ -7,8 +7,8 @@ date: 2022-11-07
 img: networkw.jpg
 thumbnail: networkw.jpg
 alt: image-alt
-project-date: Tuesday January 24th, 2023, 6pm
+project-date: Tuesday September 5th, 2023, 5:30pm
 client: Start Bootstrap
-location: Osborne Clarke, 455 Market Street, Suite 1100, San Francisco CA 94105
-description: Please join us at AILBA's 2023 International Privacy Roundtable at Osborne Clarke's office in San Francisco at 6pm. Panelists are Felix Hilgert, Partner at Osborne Clarke, Kai Westerwelle, Partner at Bird & Bird, Anna Gassot, Senior Privacy Counsel at Uber and Guinevere Jobson, VP & General Counsel at Quantcast. We will host a networking reception following the panel discussion. Please <strong><a href="https://forms.gle/XfPuXvHg4W287vEX9" target="_blank">RSVP here</a></strong>
+location: The Beacon, 250-260 King St, San Francisco, CA 94107
+description: Please join us at Medallia's Women ERG Women@ and AILBA's co-hosted fireside chat on female leadership at The Beacon in San Francisco at 5:30pm. Speakers are Toni Canonico, UX Researcher at Medallia and leader of Medallia's Women ERG Women@, Sarah Schaedler, global chair of the Technology Transactions Group at Orrick as well as the two co-founders of AILBA, Anna Mayoroff-Rezaei, AGC at Modern Health, and Hanna Steinbach, EVP & CLO at Medallia. The fireside chat will be followed by a casual networking reception. Please <strong><a href="https://docs.google.com/forms/d/1bc-Yn467LJRXjYZkzpilCWEazbJN7L8ttlbeb8h7GMY" target="_blank">RSVP here</a></strong>
 ---
