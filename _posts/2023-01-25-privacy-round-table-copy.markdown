@@ -4,8 +4,8 @@ subtitle: Tuesday January 24th, 2023, 6pm
 layout: default
 modal-id: 9
 date: 2022-11-07
-img: roundtable.jpg
-thumbnail: roundtable.jpg
+img: networkw.jpg
+thumbnail: networkw.jpg
 alt: image-alt
 project-date: Tuesday January 24th, 2023, 6pm
 client: Start Bootstrap
